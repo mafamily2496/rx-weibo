@@ -1,360 +1,358 @@
 <prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
-	<prescription type="service" package="com.sina.weibo" class="com.sina.weibo.appmarket.service.AppMarketService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.service.AppMarketService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="tv.xiaoka.play.service.ChatService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="tv.xiaoka.play.service.ChatService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostRemoteService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostRemoteService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.chukong.cocosplay.tiny.CocosPlayTinyRemoteService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.tiny.CocosPlayTinyRemoteService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="tv.xiaoka.play.service.DownloadGiftServer">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="tv.xiaoka.play.service.DownloadGiftServer">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.sina.weibo.gowidget.GoWidgetProvider$GoWidgetKeepLiveService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.sina.weibo.gowidget.GoWidgetProvider$GoWidgetKeepLiveService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.sina.weibo.gowidget.GoWidgetService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.sina.weibo.gowidget.GoWidgetService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.sina.weibo.oem.hwtouch.HuaweiQuickActionService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.sina.weibo.oem.hwtouch.HuaweiQuickActionService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.sina.weibo.push.syschannel.letv.LETVPushIntentService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.sina.weibo.push.syschannel.letv.LETVPushIntentService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.xiaomi.mipush.sdk.MessageHandleService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.xiaomi.mipush.sdk.MessageHandleService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.sina.weibo.utils.weibohttpd.PushDaemon">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.sina.weibo.utils.weibohttpd.PushDaemon">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.xiaomi.mipush.sdk.PushMessageHandler">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.xiaomi.mipush.sdk.PushMessageHandler">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.huawei.android.pushagent.PushService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.huawei.android.pushagent.PushService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.sina.weibo.push.PushServiceProxy">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.sina.weibo.push.PushServiceProxy">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.sina.push.service.SinaPushService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.sina.push.service.SinaPushService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.xiaomi.push.service.XMJobService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.xiaomi.push.service.XMJobService">
  	</prescription>
-	<prescription type="service" package="com.sina.weibo" class="com.xiaomi.push.service.XMPushService">
+	<prescription type="service" package="com.sina.weibo" sender="any" class="com.xiaomi.push.service.XMPushService">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.weiyou.AttentionBroadCastReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.weiyou.AttentionBroadCastReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.bundlemanager.BaichuanHotpatchBroadcastDispather">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.bundlemanager.BaichuanHotpatchBroadcastDispather">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.BootCompletedReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.BootCompletedReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.localpush.BootRemoteReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.localpush.BootRemoteReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.CocosPlayGameBroadcastReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.CocosPlayGameBroadcastReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.ConnectivityReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.ConnectivityReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.gowidget.GoWidgetProvider">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.gowidget.GoWidgetProvider">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.push.syschannel.huawei.HUAWEIMessageReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.push.syschannel.huawei.HUAWEIMessageReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.alibaba.sdk.android.hotpatch.HotPatchBroadcastReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.alibaba.sdk.android.hotpatch.HotPatchBroadcastReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.push.syschannel.letv.LETVReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.push.syschannel.letv.LETVReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.alipay.android.app.LiveConnectReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.alipay.android.app.LiveConnectReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.localpush.LocalPushAlarmReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.localpush.LocalPushAlarmReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.localpush.LocalPushReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.localpush.LocalPushReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.LocaleChangedReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.LocaleChangedReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.push.syschannel.miui.MIUIMessageReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.push.syschannel.miui.MIUIMessageReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.xiaomi.push.service.receivers.NetworkStatusReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.xiaomi.push.service.receivers.NetworkStatusReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.alipay.mobile.command.trigger.NotifyTrigger">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.alipay.mobile.command.trigger.NotifyTrigger">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.photoalbuminterface.PhotoAlbumReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.photoalbuminterface.PhotoAlbumReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.xiaomi.push.service.receivers.PingReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.xiaomi.push.service.receivers.PingReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.permissions.PmAlarmReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.permissions.PmAlarmReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.push.receiver.ProxyReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.push.receiver.ProxyReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.huawei.android.pushagent.PushBootReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.huawei.android.pushagent.PushBootReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.huawei.android.pushagent.PushEventReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.huawei.android.pushagent.PushEventReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.push.PushNotificationReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.push.PushNotificationReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.push.receiver.PushSDKReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.push.receiver.PushSDKReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.PushService$SwitchUserReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.PushService$SwitchUserReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.RadarPackageReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.RadarPackageReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.RemoteProcessReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.RemoteProcessReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="be.ppareit.swiftp.RequestStartStopReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="be.ppareit.swiftp.RequestStartStopReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.push.SDKMsgReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.push.SDKMsgReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.sdk.internal.SdkRegisterReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.sdk.internal.SdkRegisterReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="be.ppareit.swiftp.gui.ServerRunningNotification">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="be.ppareit.swiftp.gui.ServerRunningNotification">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.silence.SilencePackageAddReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.silence.SilencePackageAddReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.SwitchStateReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.SwitchStateReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.yx.receiver.USDKCommonNotificationReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.yx.receiver.USDKCommonNotificationReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.yx.receiver.USDKHeartBeatReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.yx.receiver.USDKHeartBeatReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.yx.receiver.USDKHeartBeatTimeoutReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.yx.receiver.USDKHeartBeatTimeoutReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.video.VideoInfosReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.video.VideoInfosReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.bundlemanager.WBBroadcastDeliver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.bundlemanager.WBBroadcastDeliver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.bundlemanager.WBExportedBroadcastDeliver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.bundlemanager.WBExportedBroadcastDeliver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.push.syschannel.letv.WeakMessageReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.push.syschannel.letv.WeakMessageReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.bundlemanager.WeiboImageBroadcastDispather">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.bundlemanager.WeiboImageBroadcastDispather">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.WeiboMsgReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.WeiboMsgReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.sina.weibo" class="com.sina.weibo.wlan.WifiBusinessReceiver">
+	<prescription type="broadcast" package="com.sina.weibo" sender="any" class="com.sina.weibo.wlan.WifiBusinessReceiver">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.feed.ActivationGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.feed.ActivationGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.feed.FriendCircleFeedGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.feed.FriendCircleFeedGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.GroupFriendGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.GroupFriendGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.InfoPageBackGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.InfoPageBackGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.MessageStrangerGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.MessageStrangerGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.QRCodeGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.QRCodeGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.RemindSettingGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.RemindSettingGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.track.RunGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.track.RunGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.SpecialFollowFeedGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.SpecialFollowFeedGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.track.TrackGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.track.TrackGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.account.UserGuideCategoryActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.account.UserGuideCategoryActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.account.UserGuideCategoryActivity2">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.account.UserGuideCategoryActivity2">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.account.UserGuideContactActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.account.UserGuideContactActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.browser.WeiboBrowserForGuide">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.browser.WeiboBrowserForGuide">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.WeiboGuideActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.WeiboGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.weibo.mobileads.view.AdActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.weibo.mobileads.view.AdActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.weibo.mobileads.view.FlashAdActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.weibo.mobileads.view.FlashAdActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.LoadActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.LoadActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.LogFileReadActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.LogFileReadActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.page.PlaySearchAdActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.page.PlaySearchAdActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.AdAppInfoActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.AdAppInfoActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.AppIgnoredPageActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.AppIgnoredPageActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.AppInfoActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.AppInfoActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.AppInstalledPageActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.AppInstalledPageActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.AppListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.AppListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.AppSearchPageActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.AppSearchPageActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.AppUpdatePageActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.AppUpdatePageActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.BigPicActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.BigPicActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.CategoryAppActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.CategoryAppActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.shell.DialogActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.shell.DialogActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.DownloadMainActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.DownloadMainActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.HomePageAppActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.HomePageAppActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.HomePageWeiGameActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.HomePageWeiGameActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.MyGamePageActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.MyGamePageActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.ReportActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.ReportActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngCocosEntryActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngCocosEntryActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngCocosGameActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngCocosGameActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngCocosLoadingActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngCocosLoadingActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngEgretGameActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngEgretGameActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGameCategoryActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGameCategoryActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGameDetailActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGameDetailActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGameDoorActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGameDoorActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGameGiftBagListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGameGiftBagListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGameManagerActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGameManagerActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGameSearchActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGameSearchActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGameWebViewActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGameWebViewActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGiftBagDetailActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGiftBagDetailActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngGiftBagListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngGiftBagListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngHtml5GameContainerActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngHtml5GameContainerActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngLayaGameActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngLayaGameActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngMainActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngMainActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngMessageDetailActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngMessageDetailActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngMessageListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngMessageListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.sng.activity.SngPureMainActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.sng.activity.SngPureMainActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.SubjectActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.SubjectActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.SubjectDetailActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.SubjectDetailActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.appmarket.activity.WeiboDownloadAppActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.WeiboDownloadAppActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.play.activity.AnchoWatchListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.play.activity.AnchoWatchListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.publish.activity.ApproveWebActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.publish.activity.ApproveWebActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.publish.activity.AuthenticationActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.publish.activity.AuthenticationActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.publish.activity.ChangeIconActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.publish.activity.ChangeIconActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.play.activity.MoreLiveActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.play.activity.MoreLiveActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.play.activity.PayActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.play.activity.PayActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.weibo.PlayerInitActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.weibo.PlayerInitActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.publish.activity.PrepareLiveActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.publish.activity.PrepareLiveActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.weibo.PublishInitActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.weibo.PublishInitActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.publish.activity.RecordActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.publish.activity.RecordActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.publish.activity.TopicActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.publish.activity.TopicActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.play.activity.VideoPlayActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.play.activity.VideoPlayActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="tv.xiaoka.publish.activity.WebForAgreementActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="tv.xiaoka.publish.activity.WebForAgreementActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.rank.OlympicMedalListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.rank.OlympicMedalListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.photoalbum.camera.CameraActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.photoalbum.camera.CameraActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.wbc.CameraActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.photoalbum.camera.CameraAdapterActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.photoalbum.camera.CameraAdapterActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.photoalbum.camera.CameraProxyActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.photoalbum.camera.CameraProxyActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.WbcameraPromptActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.WbcameraPromptActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostActivityGroup">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostActivityGroup">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostFragmentActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostFragmentActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostRemoteActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostRemoteActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostRemoteActivityGroup">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostRemoteActivityGroup">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostRemoteFragmentActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostRemoteFragmentActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostRemoteListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostRemoteListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostRemoteTabActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostRemoteTabActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.host.CocosPlayHostTabActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.host.CocosPlayHostTabActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.GameActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.GameActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.GameLandscapeActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.GameLandscapeActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.LoadFragmentActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.chukong.cocosplay.LoadFragmentActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.device.ConnectDeviceActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.device.ConnectDeviceActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.statistic.DetailLogActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.statistic.DetailLogActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.statistic.DetailLogItemActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.statistic.DetailLogItemActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.facebook.LoginActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.facebook.LoginActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.device.DeviceDetailActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.device.DeviceDetailActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.device.DeviceListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.device.DeviceListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.weight.EditWeightActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.weight.EditWeightActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.HealthActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.HealthActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.sticker.HealthCheckinActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.sticker.HealthCheckinActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.feed.HealthHomeActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.feed.HealthHomeActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.feed.HealthProfileActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.feed.HealthProfileActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.rank.HealthRankListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.rank.HealthRankListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.feed.HealthSettingActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.feed.HealthSettingActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.feed.HealthUserSettingGameActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.feed.HealthUserSettingGameActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.weight.InputWeightActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.weight.InputWeightActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.medal.MedalDetailActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.medal.MedalDetailActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.medal.MedalListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.medal.MedalListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.track.MyTrackListActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.track.MyTrackListActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.track.ShareTrackActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.track.ShareTrackActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.track.SportActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.track.SportActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.track.TrackingActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.track.TrackingActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.weight.WeightDetailsActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.weight.WeightDetailsActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.hc.weight.WeighterActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.hc.weight.WeighterActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.FriendRecommendActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.FriendRecommendActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibomonitor.view.ExDialog">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibomonitor.view.ExDialog">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.statistic.LogFeedbackActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.statistic.LogFeedbackActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.statistic.LogFeedbackTrafficActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.statistic.LogFeedbackTrafficActivity">
- 	</prescription>
-	<prescription type="activity" package="com.sina.weibo" class="com.sina.weibo.statistic.LogFeedbackUnicomActivity">
+	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.statistic.LogFeedbackUnicomActivity">
  	</prescription>
 </prescriptions>

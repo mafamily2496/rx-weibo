@@ -153,15 +153,9 @@
  	</prescription>
 	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.WeiboGuideActivity">
  	</prescription>
-	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.weibo.mobileads.view.AdActivity">
- 	</prescription>
-	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.weibo.mobileads.view.FlashAdActivity">
- 	</prescription>
 	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.chukong.cocosplay.LoadActivity">
  	</prescription>
 	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.LogFileReadActivity">
- 	</prescription>
-	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.page.PlaySearchAdActivity">
  	</prescription>
 	<prescription type="activity" package="com.sina.weibo" sender="any" class="com.sina.weibo.appmarket.activity.AdAppInfoActivity">
  	</prescription>
